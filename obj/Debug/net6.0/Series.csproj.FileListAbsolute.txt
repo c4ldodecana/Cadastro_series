@@ -1,0 +1,15 @@
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.csproj.AssemblyReference.cache
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.AssemblyInfoInputs.cache
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.AssemblyInfo.cs
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\Series.exe
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\Series.deps.json
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\Series.runtimeconfig.json
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\Series.dll
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\ref\Series.dll
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\bin\Debug\net6.0\Series.pdb
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.dll
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\ref\Series.dll
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.pdb
+C:\Users\Manjuba\Desktop\bootcamp_avand\App_cadastro_series\Series\obj\Debug\net6.0\Series.genruntimeconfig.cache
